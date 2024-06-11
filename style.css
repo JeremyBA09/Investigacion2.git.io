@@ -1,4 +1,4 @@
-/* Colores */
+
 :root {
     --color-fondo: #f0f0f0;
     --color-header: #4CAF50;
@@ -13,7 +13,7 @@
     --color-seccion: #ffffff;
 }
 
-/* Estilos generales */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -23,7 +23,7 @@ body {
     color: var(--color-texto);
 }
 
-/* Estilos del header */
+
 header {
     background: var(--color-header);
     color: var(--color-texto-header);
@@ -55,7 +55,7 @@ nav ul li a:hover {
     opacity: 0;
 }
 
-/* Estilos del main */
+
 main {
     padding: 1.5rem;
 }
@@ -82,7 +82,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilos del footer */
+
 footer {
     background: var(--color-footer);
     color: var(--color-texto-header);
@@ -91,7 +91,7 @@ footer {
     margin-top: 1rem;
 }
 
-/* Estilos de enlaces */
+
 a {
     color: var(--color-enlace);
 }
@@ -100,7 +100,7 @@ a:hover {
     color: var(--color-enlace-hover);
 }
 
-/* Estilos adicionales */
+
 ul {
     padding-left: 20px;
 }
